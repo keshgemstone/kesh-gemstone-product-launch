@@ -1,0 +1,8 @@
+kesh-gemstone-product-launch/
+├── assets/           # Marketing images, logos, videos
+├── campaigns/        # Details about marketing campaigns
+├── docs/             # Documentation (e.g., timelines, plans)
+├── src/              # Source code for promotional website or tools
+├── social-media/     # Social media content (posts, videos, designs)
+├── LICENSE           # Repository license
+├── README.md         # Overview of the product launch project
